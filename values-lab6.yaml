@@ -1,0 +1,6 @@
+config:
+  greeting: Hello
+image:
+  repository: lab5-19
+  tag: "1.1"
+replicaCount: 3
